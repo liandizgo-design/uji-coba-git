@@ -1,3 +1,4 @@
+# percobaan pertama
 import time
 from threading import Thread, Lock
 import sys
